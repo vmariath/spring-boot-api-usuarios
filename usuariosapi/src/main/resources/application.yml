@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: Usuarios API
+  datasource:
+    url: jdbc:h2:mem:usuarios
+    username: sa
+    password: password
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+  h2:
+    console:
+      enable: true
+      path: /h2-console
