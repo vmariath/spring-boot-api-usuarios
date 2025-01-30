@@ -67,7 +67,20 @@ usuarios-api/
 │── pom.xml  # Dependências do Maven
 │── README.md  # Documentação do projeto
 ```
+
+## 📌 Controle de Versões
+
+- **30/01/2025 - Versão 1.0**  
+  - Estrutura inicial da API com operações CRUD.
+  - Configuração do banco de dados PostgreSQL.
+  - Implementação do `UsuarioController`, `UsuarioRepository` e `Usuario`.
+  - Configuração básica do Spring Boot e JPA.
+
 ---
 Criado por [Vinicius Mariath](https://github.com/vmariath) 🚀
+
+
+
+
 
 
